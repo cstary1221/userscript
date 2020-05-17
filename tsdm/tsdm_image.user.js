@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  TSDM一键上传图片&调整尺寸
 // @author       cstary
-// @include      /^https?://(www\.)?tsdm\.live/forum\.php\?mod=(post|viewthread|forumdisplay).*
-// @include      /^https?://(www\.)?tsdm\.live/home\.php\?mod=space.*
+// @include      /^https?://(www\.)?tsdm39\.net/forum\.php\?mod=(post|viewthread|forumdisplay).*
+// @include      /^https?://(www\.)?tsdm39\.net/home\.php\?mod=space.*
 // @grant        none
 // ==/UserScript==
 
