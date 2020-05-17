@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         tsdm_image
 // @namespace    https://github.com/cstary1221
-// @version      0.1
+// @version      0.2
 // @description  TSDM一键上传图片&调整尺寸
 // @author       cstary
 // @include      /^https?://(www\.)?tsdm39\.net/forum\.php\?mod=(post|viewthread|forumdisplay).*
